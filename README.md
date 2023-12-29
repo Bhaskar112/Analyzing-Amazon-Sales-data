@@ -14,8 +14,10 @@
 </pre>
 
 ## Tableau Dashboard Links
-<li> Amazon Sales data Analysis-1: https://public.tableau.com/app/profile/padamati.gayathri.bhaskar/viz/AmazonSalesdataAnalysis-1/AmazonSalesdataAnalysis-1 <li>
-<li> Amazon Sales data Analysis-2: https://public.tableau.com/app/profile/padamati.gayathri.bhaskar/viz/AmazonSalesdataAnalysis-2/AmazonSalesdataAnalysis-2 <li>
+ <li> Amazon Sales data Analysis-1:
+  https://public.tableau.com/app/profile/padamati.gayathri.bhaskar/viz/AmazonSalesdataAnalysis-1/AmazonSalesdataAnalysis-1 
+ <li> Amazon Sales data Analysis-2:
+  https://public.tableau.com/app/profile/padamati.gayathri.bhaskar/viz/AmazonSalesdataAnalysis-2/AmazonSalesdataAnalysis-2 
 
 ## Technologies Used
 <pre> 
