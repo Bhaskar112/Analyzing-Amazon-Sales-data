@@ -22,7 +22,7 @@ You can find the data set in the given link:https://drive.google.com/file/d/10so
   https://public.tableau.com/app/profile/padamati.gayathri.bhaskar/viz/AmazonSalesdataAnalysis-1/AmazonSalesdataAnalysis-1 
  <li> Amazon Sales data Analysis-2:
   https://public.tableau.com/app/profile/padamati.gayathri.bhaskar/viz/AmazonSalesdataAnalysis-2/AmazonSalesdataAnalysis-2 
-  <li> Amazon Sales data Analysis-3:
+ <li> Amazon Sales data Analysis-3:
    https://public.tableau.com/app/profile/padamati.gayathri.bhaskar/viz/AmazonSalesdataanalysis-3/Dashboard1
 
 ## Technologies Used
