@@ -22,6 +22,8 @@ You can find the data set in the given link:https://drive.google.com/file/d/10so
   https://public.tableau.com/app/profile/padamati.gayathri.bhaskar/viz/AmazonSalesdataAnalysis-1/AmazonSalesdataAnalysis-1 
  <li> Amazon Sales data Analysis-2:
   https://public.tableau.com/app/profile/padamati.gayathri.bhaskar/viz/AmazonSalesdataAnalysis-2/AmazonSalesdataAnalysis-2 
+  <li> Amazon Sales data Analysis-3:
+   https://public.tableau.com/app/profile/padamati.gayathri.bhaskar/viz/AmazonSalesdataanalysis-3/Dashboard1
 
 ## Technologies Used
 <pre> 
@@ -37,7 +39,7 @@ You can find the data set in the given link:https://drive.google.com/file/d/10so
 </pre>
 
 ##  Detailed Project Report
-Link: 
+Link: https://docs.google.com/presentation/d/1rKnc8r65R4zVb5qISVoK2u0IxxqZj1tW/edit?usp=drive_link&ouid=105259631298940832830&rtpof=true&sd=true
 
 ## Help Me Improve
 <p> Hello readers, if you find any bugs, please consider raising issue so that I can address them asap.</p>
