@@ -17,7 +17,7 @@ You can find the data set in the given link:https://drive.google.com/file/d/10so
 <li> Data Visualization   : Plotted graphs to get insights about dependent and independent variables. Also used Tableau for data visulization. </li>
 </pre>
 
-## Tableau Dashboard Links
+## Tableau Dashboard Links:
  <li> Amazon Sales data Analysis-1:
   https://public.tableau.com/app/profile/padamati.gayathri.bhaskar/viz/AmazonSalesdataAnalysis-1/AmazonSalesdataAnalysis-1 
  <li> Amazon Sales data Analysis-2:
