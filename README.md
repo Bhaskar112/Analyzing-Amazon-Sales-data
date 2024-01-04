@@ -43,6 +43,6 @@ You can find the data set in the given link:https://drive.google.com/file/d/10so
 Link: https://docs.google.com/presentation/d/1rKnc8r65R4zVb5qISVoK2u0IxxqZj1tW/edit?usp=drive_link&ouid=105259631298940832830&rtpof=true&sd=true
 
 ## Help Me Improve
-<p> Hello readers, if you find any bugs, please consider raising issue so that I can address them asap,please connect with me on
+<p> Hello readers, if you find any bugs, please consider raising issue so that I can address them asap and connect with me on
 <a href="mailto:bhaskarpadamati112@gmail.com">email</a> or
 <a href="https://www.linkedin.com/in/gayathri-bhaskar-padamati-78552a148/">Linkedin</a>
